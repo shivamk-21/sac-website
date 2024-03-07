@@ -30,25 +30,25 @@ export const data: dataProps[] = [
 ];
 
 export const itemData: CrewProps[] = [
-  
+   {
+    img: IMG_0426,
+  },
   {
     img: DSC_0799,
   },
-  {
-    img: IMG_0426,
+    {
+    img: IMG_0932,
   },
   {
     img: IMG_0003,
   },
-  {
-    img: IMG_0932,
-  },
-  {
-    img: IMG_7420,
-  },
  
   {
     img:IMG20231015181640,  
+  },
+  
+  {
+    img: IMG_7420,
   },
   
   
